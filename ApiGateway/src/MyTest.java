@@ -8,6 +8,8 @@ public class MyTest {
 		System.out.println("-----OK3-----");
 		System.out.println("-----OK4-----");
 		System.out.println("-----OK5-----");
+		System.out.println("-----OK6-----");
+		
 	}
 
 }
