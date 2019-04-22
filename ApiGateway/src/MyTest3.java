@@ -6,6 +6,7 @@ public class MyTest3 {
 		System.out.println("-----NG-----");
 		System.out.println("-----NG2-----");
 		System.out.println("-----NG3-----");
+		System.out.println("-----NG4-----");
 	}
 
 }
